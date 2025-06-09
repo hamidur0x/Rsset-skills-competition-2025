@@ -26,8 +26,10 @@ Held at **Munshiganj Polytechnic Institute** 🎓
 
 ## ▶️ How to Run
 
-1. 🐍 Make sure you have Python installed (version 3.x).  
-2. 💻 Run the script:
+1. 📥 Download or clone the repository.
+2. 📂 Make sure all the files are in the same directory as in the repository.
+3. 🐍 Make sure you have Python installed (version 3.x).  
+4. 💻 Run the script:
 
 ```bash
 python calculator.py
