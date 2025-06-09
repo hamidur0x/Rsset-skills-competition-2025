@@ -9,11 +9,11 @@ Supports basic arithmetic, squares, cubes, roots, percentage, and Pi constant.
 
 **Rsset Skills Competition 2025**  
 Held at **Munshiganj Polytechnic Institute** 🎓
-
-[Link](https://rsset-skills-competition-2025.onrender.com)
-
 ---
+## Certificate
 
+![Certificate](1740652987620.jpg)
+---
 ## 🚀 Features
 
 - ➕➖✖️➗ Basic arithmetic operations  
