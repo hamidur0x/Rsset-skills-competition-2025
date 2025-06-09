@@ -5,13 +5,13 @@ Supports basic arithmetic, squares, cubes, roots, percentage, and Pi constant.
 
 ---
 
-## 🏆 Made for
+## ⚙️ Made for
 
 **Rsset Skills Competition 2025**  
 Held at **Munshiganj Polytechnic Institute** 🎓
 
 ---
-## Certificate
+## 🏆 Certificate
 
 ![Certificate](1740652987620.jpg)
 ---
