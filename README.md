@@ -31,7 +31,7 @@ Held at **Munshiganj Polytechnic Institute** 🎓
 3. 🐍 Make sure you have Python installed (version 3.x).  
 4. 💻 Run the script:
 ```bash
-https://github.com/hamidur0x/Rsset-skills-competition-2025.git
+git clone https://github.com/hamidur0x/Rsset-skills-competition-2025.git
 ```
 ```bash
 cd Rsset-skills-competition-2025
