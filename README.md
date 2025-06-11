@@ -30,6 +30,17 @@ Held at **Munshiganj Polytechnic Institute** 🎓
 2. 📂 Make sure all the files are in the same directory as in the repository.
 3. 🐍 Make sure you have Python installed (version 3.x).  
 4. 💻 Run the script:
-
+```bash
+https://github.com/hamidur0x/Rsset-skills-competition-2025.git
+```
+```bash
+cd Rsset-skills-competition-2025
+```
+```bash
+pip install tk
+```
 ```bash
 python calculator.py
+```
+
+
