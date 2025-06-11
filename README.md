@@ -25,17 +25,19 @@ Held at **Munshiganj Polytechnic Institute** 🎓
 - ⚠️ Error handling for invalid inputs and division by zero  
 
 ## ▶️ How to Run
-
 1. 📥 Download or clone the repository.
-2. 📂 Make sure all the files are in the same directory as in the repository.
-3. 🐍 Make sure you have Python installed (version 3.x).  
-4. 💻 Run the script:
 ```bash
 git clone https://github.com/hamidur0x/Rsset-skills-competition-2025.git
 ```
 ```bash
 cd Rsset-skills-competition-2025
 ```
+
+
+2. 📂 Make sure all the files are in the same directory as in the repository.
+3. 🐍 Make sure you have Python installed (version 3.x).  
+4. 💻 Run the script:
+
 ```bash
 pip install tk
 ```
